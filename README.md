@@ -5,9 +5,12 @@
 #### Brand Identity and Strategy,  Competitive Analysis, UX Analysis, Multidisciplinary Team Leadership
 
 ## Education
-- MSc Strategic Product Design | Delft University of Technology (_November 2022_)
-- BSc Industrial Design Engineering | Delft University of Technology (_July 2019_)
-- Minor Exchange in Design Engineering | KAIST, South Korea (_December 2018_
+- MSc Strategic Product Design | Delft University of Technology 
+(_November 2022_)
+- BSc Industrial Design Engineering | Delft University of Technology 
+(_July 2019_)
+- Minor Exchange in Design Engineering | KAIST, South Korea 
+(_December 2018_)
 
 ## Work Experience
 **Self Employed @ boes, Paris (_July 2023 - Present_)** 

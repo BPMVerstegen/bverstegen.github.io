@@ -1,8 +1,8 @@
 # Strategic Product Manager
 
-#### Technical Skills: Javascript, C++, Python, Qiskit, MATLAB, Adobe Suite, Office Suite
-#### Managerial Skills: CRM | Zoho, Salesforce, MS Dynamics, Google
-#### Brand Identity and Strategy,  Competitive Analysis, UX Analysis, Multidisciplinary Team Leadership
+[Personal Website](bpmverstegen.github.io)
+#### Technical Skills: Javascript, C++, Python, Qiskit, MATLAB
+#### Skills: CRM | Zoho, Salesforce, MS Dynamics, Google, Adobe Suite
 
 ## Education
 - MSc Strategic Product Design | Delft University of Technology 

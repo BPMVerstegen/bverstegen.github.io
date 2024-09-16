@@ -1,6 +1,6 @@
 # Strategic Product Manager
 
-[Personal Website](bpmverstegen.github.io)
+[bpmverstegen.github.io]()
 #### Technical Skills: Javascript, C++, Python, Qiskit, MATLAB
 #### Skills: CRM | Zoho, Salesforce, MS Dynamics, Google, Adobe Suite
 

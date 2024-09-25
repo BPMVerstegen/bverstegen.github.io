@@ -2,7 +2,7 @@
 
 [bpmverstegen.github.io](https://bpmverstegen.github.io)
 #### Technical Skills: Javascript, C++, Python, Qiskit, MATLAB
-#### Skills: CRM | Zoho, Salesforce, MS Dynamics, Google, Adobe Suite
+#### Skills: CRM | Zoho, Salesforce, MS Dynamics, Hubspot, Adobe Suite
 
 ## Education
 - MSc Strategic Product Design | Delft University of Technology 
@@ -48,12 +48,19 @@
 **Bachelors Student Mentor (_2016 - 2017_)**
 
 ## Projects
+- [boes | Strategic brand design](https://bpmverstegen.github.io/boes)
+- [Urbandicoot | Underground city exploration](https://bpmverstegen.github.io/urbandicoot)
+- [Stresstoeter | Design for behavioral change](https://bpmverstegen.github.io/Stresstoeter)
+- [Newbee | Startup strategy consultancy](https://bpmverstegen.github.io/newbee)
+- [OT | App redesign](https://bpmverstegen.github.io/OT-redesign)
 
 ## Publications
-1. Verstegen B.P.M., Delle Monache M., Ozcan E., Quantum Mechanics, Ambiguity and Design: Towards a Framework (2022). DOI: https://doi.org/10.1145/3527927.3535217
+1. Verstegen B.P.M., Delle Monache M., Ozcan E., Quantum Mechanics, Ambiguity and Design: Towards a Framework (2022). DOI: [https://doi.org/10.1145/3527927.3535217](https://doi.org/10.1145/3527927.3535217)
+2. Verstegen B., W. Zhu, W. Li, Prototyping Artificial Intelligent Online Counselling Chatbots to Evoke User Willingness to Converse (2020) DOI: [10.13140/RG.2.2.29604.49282](http://dx.doi.org/10.13140/RG.2.2.29604.49282)
+3. Verstegen B., A Design Philosophical Approach towards the Silent Operating Room (2019) DOI: [10.13140/RG.2.2.36315.37927](http://dx.doi.org/10.13140/RG.2.2.36315.37927)
 
 ## Skillset
-Javascript, C++, Python, Qiskit, MATLAB - CRM Zoho, Salesforce, Dynamics - Brand Identity and Strategy - User Experience Analysis - Competitive Analysis
+Javascript, C++, Python, Qiskit, MATLAB - CRM Zoho, Salesforce, Dynamics, Hubspot - Brand Identity and Strategy - User Experience Analysis - Competitive Analysis
 Adobe Suite - Office Suite - Adaptive Learner - Self Sufficiency - Pro-Activity - Multidisciplinary Team Leadership
 Work Structuring - Data Collection & Processing - Mock-up Creation - User Experience Testing
 

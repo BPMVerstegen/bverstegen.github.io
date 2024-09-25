@@ -48,11 +48,11 @@
 **Bachelors Student Mentor (_2016 - 2017_)**
 
 ## Projects
-- [boes | Strategic brand design](https://bpmverstegen.github.io/boes)
-- [Urbandicoot | Underground city exploration](https://bpmverstegen.github.io/urbandicoot)
-- [Stresstoeter | Design for behavioral change](https://bpmverstegen.github.io/Stresstoeter)
-- [Newbee | Startup strategy consultancy](https://bpmverstegen.github.io/newbee)
-- [OT | App redesign](https://bpmverstegen.github.io/OT-redesign)
+[boes | Strategic brand design](https://bpmverstegen.github.io/boes)
+[Urbandicoot | Underground city exploration](https://bpmverstegen.github.io/urbandicoot)
+[Stresstoeter | Design for behavioral change](https://bpmverstegen.github.io/Stresstoeter)
+[Newbee | Startup strategy consultancy](https://bpmverstegen.github.io/newbee)
+[OT | App redesign](https://bpmverstegen.github.io/OT-redesign)
 
 ## Publications
 1. Verstegen B.P.M., Delle Monache M., Ozcan E., Quantum Mechanics, Ambiguity and Design: Towards a Framework (2022). DOI: [https://doi.org/10.1145/3527927.3535217](https://doi.org/10.1145/3527927.3535217)
